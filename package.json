@@ -1,0 +1,11 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "a basic journal app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manas,parth",
+  "license": "ISC"
+}
